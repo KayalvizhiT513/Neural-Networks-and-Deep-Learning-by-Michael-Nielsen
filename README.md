@@ -1,1 +1,1 @@
-# Neural-Networks-and-Deep-Learning-by-Michael-Nielsen
+# Neural Networks and Deep Learning by Michael Nielsen
