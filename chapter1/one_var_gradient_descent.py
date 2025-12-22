@@ -48,3 +48,4 @@ def update(frame):
 ani = FuncAnimation(fig, update, frames=len(xs), interval=300)
 
 plt.show()
+
