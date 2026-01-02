@@ -1,0 +1,5 @@
+Advantage:
+Online learning updates parameters after every training example, allowing faster adaptation and enabling learning in streaming or real-time settings.
+
+Disadvantage:
+Because each update is based on a single example, the gradient estimates are noisy, leading to unstable updates and slower convergence compared to mini-batch SGD.
