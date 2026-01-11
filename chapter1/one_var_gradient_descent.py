@@ -41,11 +41,13 @@ ax.legend()
 
 # Animation update function
 def update(frame):
-    ball.set_data(xs[frame], ys[frame])
+    ball.set_data([xs[frame]], [ys[frame]])
     path.set_data(xs[:frame+1], ys[:frame+1])
     return ball, path
 
 ani = FuncAnimation(fig, update, frames=len(xs), interval=300)
 
-plt.show()
+# Save the animation as GIF
+ani.save('gradient_descent_animation.gif', writer='imagemagick')
 
+plt.show()
