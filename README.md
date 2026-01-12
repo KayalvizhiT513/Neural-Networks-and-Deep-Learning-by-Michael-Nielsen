@@ -64,10 +64,3 @@ Clarifies why **cross-entropy is the preferred loss function** for probabilistic
 * ✍️ Practice mathematical reasoning behind learning algorithms
 * 🧪 Validate theory through minimal experiments
 * 🧠 Build strong foundations before using high-level frameworks
-
----
-
-## 📌 Reference
-
-Michael Nielsen — *Neural Networks and Deep Learning*
-🔗 [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
