@@ -34,6 +34,7 @@ This chapter focuses exclusively on the **mathematical derivation of backpropaga
 
 * 🧮 Vectorized backpropagation equations
 * ✍️ Formal proofs of error propagation across layers
+* Try modifying a single neuron
 
 ### Key Takeaway
 
