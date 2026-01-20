@@ -8,7 +8,7 @@ The focus is on **conceptual clarity**, **mathematical correctness**, and **brid
 🔗 Official book reference: [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
 
 ---
-
+---
 ## 📂 Chapter 1 — Neural Network Foundations
 
 This chapter builds the intuition behind neural networks, starting from perceptrons and moving toward differentiable models and optimization.
